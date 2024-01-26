@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3e29bad-fa4e-4c30-b34d-c75d39c7342c" name="Changes" comment="Password Cracker">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a3e29bad-fa4e-4c30-b34d-c75d39c7342c" name="Changes" comment="Password Cracker" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
       <updated>1703622205577</updated>
       <workItem from="1703622209073" duration="2724000" />
       <workItem from="1703702314474" duration="984000" />
-      <workItem from="1706228999418" duration="737000" />
+      <workItem from="1706228999418" duration="1369000" />
     </task>
     <task id="LOCAL-00001" summary="Password Cracker">
       <option name="closed" value="true" />
@@ -81,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703880893871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Password Cracker">
+      <option name="closed" value="true" />
+      <created>1706230806137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706230806137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
