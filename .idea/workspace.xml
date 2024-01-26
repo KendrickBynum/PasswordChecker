@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3e29bad-fa4e-4c30-b34d-c75d39c7342c" name="Changes" comment="Password Cracker" />
+    <list default="true" id="a3e29bad-fa4e-4c30-b34d-c75d39c7342c" name="Changes" comment="Password Cracker">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1703622205577</updated>
       <workItem from="1703622209073" duration="2724000" />
-      <workItem from="1703702314474" duration="347000" />
+      <workItem from="1703702314474" duration="984000" />
+      <workItem from="1706228999418" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="Password Cracker">
       <option name="closed" value="true" />
@@ -70,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703702564820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Password Cracker">
+      <option name="closed" value="true" />
+      <created>1703880893871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703880893871</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +92,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Password Cracker" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject2$generate_hashes.coverage" NAME="generate_hashes Coverage Results" MODIFIED="1703702330134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/pythonProject2$generate_hashes.coverage" NAME="generate_hashes Coverage Results" MODIFIED="1706229022089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/pythonProject2$Password_Cracker.coverage" NAME="Password_Cracker Coverage Results" MODIFIED="1703702320325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>
